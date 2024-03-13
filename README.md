@@ -12,7 +12,7 @@
   <img align="center" alt="bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bru-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
   <img align="center" alt="bru-Cypress" height="30" width="40" src="https://openviewpartners.com/wp-content/uploads/2020/12/Cypress_Logotype_Color_Light_BG.png" >
-  <img align="center" alt="bru-Postman" height="30" width="40" src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" >
+  <img align="center" alt="bru-Postman" height="30" width="40" src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" >
   
   
   
