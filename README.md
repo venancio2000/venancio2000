@@ -11,6 +11,7 @@
   <img align="center" alt="bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bru-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" >
+  <img align="center" alt="bru-cypress" height="30" width="40" src="https://openviewpartners.com/wp-content/uploads/2020/12/Cypress_Logotype_Color_Light_BG.png" >
   
   
 </div>
